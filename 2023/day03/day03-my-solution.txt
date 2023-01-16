@@ -1,0 +1,20 @@
+To view what's written in a file. -- cat
+
+To change the access permissions of files. -- chmod permissions filename
+
+To check which commands you have run till now. -- history
+
+To remove a directory/ Folder -- rmdir
+
+To create a fruits.txt file and to view the content. -- use nano command to create the file and cat command to view its content
+
+Add content in devops.txt (One in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava. -- create file using nano command
+
+To Show only top three fruits from the file. -- head -3 devops
+
+To Show only bottom three fruits from the file. -- tail -3 devops
+
+To create another file Colors.txt and to view the content.
+Add content in Colors.txt (One in each line) - Red, Pink, White, Black, Blue, Orange, Purple, Grey. -- create file using nano command and cat command to view its content
+
+To find the difference between fruits.txt and Colors.txt file. -- diff fruits colors
